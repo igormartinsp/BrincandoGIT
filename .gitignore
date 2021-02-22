@@ -348,3 +348,28 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+#EU ISNIRI
+**/GestorPCD.v12.suo
+**/HidroInfoAna
+**/packages/
+**/bin/*.pdb
+**/bin/Web.dll
+**/bin/Web.dll.config
+**/bin/Web.pdb
+**/obj/
+
+**/HidroInfoAnaModel
+**/TestEntity
+**/OtherFuncions/bin/Debug/*.pdb
+**/OtherFuncions/bin/Debug/OtherFuncions.dll
+**/OtherFuncions/bin/Release/*.pdb
+**/OtherFuncions/bin/Release/OtherFuncions.dll
+**/Web/bin/OtherFuncions.dll
+**/HidroInfoAnaModel
+**/TestEntity
+**/Web/obj
+**/.vs
+**/.tmp.drivedownload
+**/Web/QualifAutomatica/LogQualifAutomatica/*.*
